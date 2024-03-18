@@ -4,3 +4,4 @@ Makefile
 docker/
 .dockerignore
 development.env
+bin/
